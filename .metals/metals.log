@@ -1,0 +1,76 @@
+2024.08.04 19:12:10 INFO  Started: Metals version 1.3.3 in folders 'C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@78681bc5]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5a47eb04]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@78681bc5]
+2024.08.04 19:12:10 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.04 19:12:11 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:13 INFO  Running List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7)
+2024.08.04 19:12:13 INFO  Attempting to connect to the build server...
+2024.08.04 19:12:13 INFO  Running BSP server List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\.scala-build\ide-envs.json, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7)
+2024.08.04 19:12:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\.metals\bsp.trace.json or C:\Users\Sachinthaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.04 19:12:15 WARN  Could not find semantic tokens for: file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/Practical7/p7.scala
+2024.08.04 19:12:16 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.04 19:12:16 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.04 19:12:16 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.04 19:12:17 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:18 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.04 19:12:18 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:18 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:18 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:18 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:19 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:20 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:20 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:20 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:20 INFO  BSP server: Starting compilation server
+2024.08.04 19:12:20 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:21 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:21 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:22 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:24 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:27 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:27 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:28 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:28 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:29 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:29 INFO  time: Connected to build server in 16s
+2024.08.04 19:12:29 INFO  Connected to Build server: scala-cli v1.4.1
+2024.08.04 19:12:30 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:30 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:30 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:12:31 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical7\p7.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.04 19:12:32 INFO  time: Imported build in 3.26s
+2024.08.04 19:12:32 INFO  running doctor check
+2024.08.04 19:12:32 INFO  java targets: Practical7_400e808088-test, Practical7_400e808088
+2024.08.04 19:12:37 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.04 19:12:39 INFO  time: indexed workspace in 6.66s
+Aug 04, 2024 7:28:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+2024.08.04 19:30:45 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:30:47 INFO  time: compiled Practical7_400e808088 in 2.39s
+2024.08.04 19:32:53 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:32:53 INFO  time: compiled Practical7_400e808088 in 0.17s
+2024.08.04 19:34:19 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:34:21 INFO  time: compiled Practical7_400e808088 in 1.23s
+2024.08.04 19:38:19 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:38:19 INFO  time: compiled Practical7_400e808088 in 0.54s
+Aug 04, 2024 7:46:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3048
+2024.08.04 19:50:57 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:50:57 INFO  time: compiled Practical7_400e808088 in 0.76s
+Aug 04, 2024 7:51:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3782
+2024.08.04 19:52:00 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:52:00 INFO  time: compiled Practical7_400e808088 in 0.57s
+2024.08.04 19:52:07 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:52:07 INFO  time: compiled Practical7_400e808088 in 0.47s
+Aug 04, 2024 7:54:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3982
+2024.08.04 19:54:50 INFO  compiling practical7_400e808088 (1 scala source)
+2024.08.04 19:54:50 INFO  time: compiled Practical7_400e808088 in 0.41s
+2024.08.04 19:55:44 INFO  Shutting down server
+2024.08.04 19:55:44 INFO  shutting down Metals
+2024.08.04 19:55:44 INFO  Shut down connection with build server.
+2024.08.04 19:55:44 INFO  Exiting server
